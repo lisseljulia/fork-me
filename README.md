@@ -36,5 +36,3 @@ As Kanye West said:
 - [ ] gdgdgdggdLLLL
 - [ ] this is an incomplete item
 - [ ] this is from bugfix
-- [ ] Amazing main
-- [ ] Amazing main 2
