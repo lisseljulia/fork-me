@@ -29,8 +29,3 @@ As Kanye West said:
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
-- [ ] this is an incomplete item
-- [ ] this is an incomplete item
-- [X] this is a completed item
-- [ ] this is from bugfix toppen!
-- [ ] this is from dollar
