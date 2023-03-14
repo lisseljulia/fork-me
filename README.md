@@ -18,6 +18,7 @@ __This will also be bold__
 1. Item 1 
 2. Item 2 
 3. Item 3  
+2. Item 2 
 
 * Item 1 
 * * Item 2
