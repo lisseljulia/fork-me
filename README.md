@@ -27,6 +27,6 @@ As Kanye West said:
   > the present is our past.
   
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax red (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] item main
+- [x] list syntax  (any unordered or ordered list supported)
+- [x] this is a item
+- [ ] items yas
